@@ -41,5 +41,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log(`Space game running at http://localhost:${PORT}`);
+  console.log(`Master Chief game running at http://localhost:${PORT}`);
 });
